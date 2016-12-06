@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 30-sep-2016, 20:15:09
+    Author     : Luis Barrios <luchobaper@gmail.com>
+*/
+
+.box{box-sizing: border-box; margin: 0px; padding: 0px;}
+.negrita{ font-weight: bold; }
+.mayuscula{ text-transform: uppercase; }
+.tam-1{ font-size: 1em; }
+.tam-2{ font-size: 1.3em; }
+.tam-3{ font-size: 1.5em; }
+.no-subrayado{text-decoration: none !important;}
+.wel{ box-sizing: border-box;}
+.margen-arriba{margin-top: 20px;}
+#barra{height: 10px !important;}
+
+#no-creciente{
+    height: 230px !important;
+    overflow-y: scroll;
+    &::-webkit-scrollbar {
+        width: 0.6em;
+    }
+    &::-webkit-scrollbar-track {
+        -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    }
+    &::-webkit-scrollbar-thumb {
+        background-color: #34495e;
+        outline: 1px solid slategrey;
+    }
+}

@@ -1,0 +1,89 @@
+[03-Dec-2016 11:21:12 UTC] PHP Fatal error:  Class 'MODELO\usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/sistema.php on line 34
+[03-Dec-2016 11:22:11 UTC] PHP Fatal error:  Class 'MODELO\usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/sistema.php on line 34
+[03-Dec-2016 11:23:31 UTC] PHP Fatal error:  Class 'MODELO\usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/sistema.php on line 34
+[03-Dec-2016 11:23:53 UTC] PHP Fatal error:  Class 'MODELO\usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/sistema.php on line 34
+[03-Dec-2016 11:23:57 UTC] PHP Fatal error:  Class 'MODELO\usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/sistema.php on line 34
+[03-Dec-2016 11:24:11 UTC] PHP Fatal error:  Class 'MODELO\usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/sistema.php on line 34
+[03-Dec-2016 11:24:24 UTC] PHP Fatal error:  Class 'MODELO\usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/sistema.php on line 34
+[03-Dec-2016 11:26:57 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 41
+[03-Dec-2016 11:27:11 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 41
+[03-Dec-2016 11:31:31 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 45
+[03-Dec-2016 11:38:36 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 45
+[03-Dec-2016 11:38:40 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 45
+[03-Dec-2016 11:39:46 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 45
+[03-Dec-2016 11:39:49 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 45
+[03-Dec-2016 11:42:11 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 45
+[03-Dec-2016 11:42:12 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 45
+[03-Dec-2016 11:42:50 UTC] PHP Fatal error:  Class 'MODELO\Usuario' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Usuario.php on line 45
+[03-Dec-2016 12:03:30 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Usuario::registrar() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 12:20:28 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Usuario::confirmarcodigo=Mw==() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 12:20:30 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Usuario::confirmarcodigo=Mw==() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 12:23:30 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Usuario::confirmarcodigo=Mw==() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 12:23:45 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Usuario::confirmarcodigo=Mw==() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 12:25:47 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::registrar() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 12:25:48 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::registrar() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 12:46:15 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::listar() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 12:53:22 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::listar() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 12:54:39 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::listar() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 13:09:47 UTC] PHP Fatal error:  Class 'MODELO\Medicamento' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Medicamento.php on line 12
+[03-Dec-2016 13:10:05 UTC] PHP Fatal error:  Class 'MODELO\Medicamento' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Medicamento.php on line 12
+[03-Dec-2016 13:16:55 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::crear() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[03-Dec-2016 14:26:16 UTC] PHP Fatal error:  Class 'CONTROLADOR\Medicamento' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:26:25 UTC] PHP Fatal error:  Class 'CONTROLADOR\Medicamento' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:26:29 UTC] PHP Fatal error:  Class 'CONTROLADOR\Medicamento' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:27:00 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:27:02 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:27:06 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:27:47 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:27:51 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:28:10 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:30:38 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:30:42 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:30:51 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:30:52 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:30:53 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:30:54 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:30:55 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:34:14 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:34:16 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:34:20 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:34:23 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:41:07 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:41:10 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:41:13 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[03-Dec-2016 14:41:14 UTC] PHP Fatal error:  Class 'CONTROLADOR\Grafica' not found in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Inicio.php on line 9
+[04-Dec-2016 19:55:03 UTC] PHP Fatal error:  Cannot redeclare class CONTROLADOR\Medicamento in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Medicamento.php on line 5
+[04-Dec-2016 19:55:28 UTC] PHP Fatal error:  Cannot redeclare class CONTROLADOR\Medicamento in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Medicamento.php on line 5
+[04-Dec-2016 19:56:09 UTC] PHP Fatal error:  Cannot redeclare class CONTROLADOR\Medicamento in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Medicamento.php on line 5
+[04-Dec-2016 20:37:26 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:38:15 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:38:45 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:39:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:40:02 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:40:32 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:40:36 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:41:23 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:41:45 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:42:01 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:42:32 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:42:59 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:43:18 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:43:54 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 12
+[04-Dec-2016 20:44:16 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:44:53 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:44:59 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 11
+[04-Dec-2016 20:45:31 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 12
+[04-Dec-2016 20:45:57 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 13
+[04-Dec-2016 20:46:00 UTC] PHP Fatal error:  Using $this when not in object context in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 13
+[04-Dec-2016 20:46:26 UTC] PHP Fatal error:  Access to undeclared static property: CONTROLADOR\Grafica::$datos in /home/nekoosco/public_html/SubDominios/papeleria/controladores/Grafica.php on line 13
+[05-Dec-2016 20:06:24 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?=id() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:06:56 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?=id() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:10:00 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?=id() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:35:23 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?=id() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:36:48 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?=id-medicamentos() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:38:35 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?=id-medicamentos() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:38:40 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?=id-medicamentos() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:38:58 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:38:58 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:38:58 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27
+[05-Dec-2016 20:44:17 UTC] PHP Fatal error:  Call to undefined method CONTROLADOR\Medicamento::exportar?id=1() in /home/nekoosco/public_html/SubDominios/papeleria/index.php on line 27

@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+
+    Created on : 30-sep-2016, 20:15:09
+    Author     : Luis Barrios <luchobaper@gmail.com>
+
+.box {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px; }
+
+.negrita {
+    font-weight: bold; }
+
+.mayuscula {
+    text-transform: uppercase; }
+
+.tam-1 {
+    font-size: 1em; }
+
+.tam-2 {
+    font-size: 1.3em; }
+
+.tam-3 {
+    font-size: 1.5em; }
+
+.no-subrayado {
+    text-decoration: none !important; }
+
+.wel {
+    box-sizing: border-box; }
+
+.margen-arriba {
+    margin-top: 20px; }
+
+.margen-abajo{
+    margin-bottom: 15px;
+}
+
+.agente-grupo{
+    background: #ecf0f1;
+}
+
+#agente{
+    border: 1px solid #337ab7;
+    padding: 6px 20px;
+    border-radius: 3px;
+    color: #337ab7;
+}
+
+#agente > i{
+    margin-right: 10px;
+}
+
+#barra {
+    height: 10px !important; }
+
+#no-creciente {
+    height: 230px !important;
+    overflow-y: scroll; }
+#no-creciente::-webkit-scrollbar {
+    width: 0.6em; }
+#no-creciente::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); }
+#no-creciente::-webkit-scrollbar-thumb {
+    background-color: #34495e;
+    outline: 1px solid slategrey; }
+
+# sourceMappingURL=estilos.css.map
+
+a{
+    text-decoration: none;
+}*/
